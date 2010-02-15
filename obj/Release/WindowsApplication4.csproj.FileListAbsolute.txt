@@ -1,0 +1,6 @@
+C:\Documents and Settings\Yarek\Desktop\LeedsMet\WindowsApplication4\bin\Release\WindowsApplication4.exe
+C:\Documents and Settings\Yarek\Desktop\LeedsMet\WindowsApplication4\obj\Release\ResolveAssemblyReference.cache
+C:\Documents and Settings\Yarek\Desktop\LeedsMet\WindowsApplication4\obj\Release\WindowsApplication4.Form1.resources
+C:\Documents and Settings\Yarek\Desktop\LeedsMet\WindowsApplication4\obj\Release\WindowsApplication4.csproj.GenerateResource.Cache
+C:\Documents and Settings\Yarek\Desktop\LeedsMet\WindowsApplication4\obj\Release\WindowsApplication4.exe
+C:\Documents and Settings\Yarek\Desktop\LeedsMet\WindowsApplication4\obj\Release\WindowsApplication4.Form2.resources
